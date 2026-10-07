@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>assets/icon.ico</file>
+        <file>assets/font/InterBlack.ttf</file>
+        <file>assets/font/Inter.ttf</file>
+        <file>assets/font/InterMedium.ttf</file>
+        <file>assets/font/InterBold.ttf</file>
+        <file>assets/font/InterSemiBold.ttf</file>
+        <file>assets/image/settings.svg</file>
+        <file>assets/image/benzLogo.svg</file>
+        <file>assets/image/brands.svg</file>
+        <file>assets/image/createProducts.svg</file>
+        <file>assets/image/home.svg</file>
+        <file>assets/image/products.svg</file>
+        <file>assets/image/notification.svg</file>
+        <file>assets/image/baner.png</file>
+        <file>assets/image/overlay.png</file>
+        <file>assets/image/plus.svg</file>
+        <file>assets/image/people.svg</file>
+        <file>assets/image/coin.svg</file>
+        <file>assets/image/tag.svg</file>
+        <file>assets/image/car3.jpg</file>
+        <file>assets/image/car4.jpg</file>
+        <file>assets/image/car2.jpg</file>
+        <file>assets/image/car1.jpg</file>
+        <file>assets/image/car6.jpg</file>
+        <file>assets/image/car7.jpg</file>
+        <file>assets/image/car8.jpg</file>
+        <file>assets/image/car5.jpg</file>
+        <file>assets/image/chart.svg</file>
+        <file>assets/image/graph.svg</file>
+        <file>assets/image/chevron.svg</file>
+    </qresource>
+</RCC>
